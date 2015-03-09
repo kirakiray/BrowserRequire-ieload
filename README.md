@@ -17,7 +17,6 @@ src——ieload插件源代码
 
 ###使用插件
 
-####1.添加插件
 ```html
 <script src="js/br.js"></script>
 <!--框架主文件-->
